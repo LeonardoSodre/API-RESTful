@@ -1,2 +1,2 @@
 # API-RESTful
-Minha primeira APi feita no Spring Tools Suite 4, usando Spring Boot dev  Tools, Hibernate e PostgreSql
+My first APi made in Spring Tools Suite 4, using Spring Boot dev Tools, Hibernate and PostgreSql
